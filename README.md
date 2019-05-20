@@ -56,7 +56,7 @@ Comparing with building from source manually, you will benefit from using this s
 SSH to your VPS and clone the Github repository:
 
 ```bash
-https://github.com/thebitradio/Masternodes-VPS.git && cd Masternodes-VPS
+git clone https://github.com/thebitradio/Masternodes-VPS.git && cd Masternodes-VPS
 ```
 
 Install & configure your desired master node with options:
